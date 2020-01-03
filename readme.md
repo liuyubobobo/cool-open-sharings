@@ -25,5 +25,5 @@
 | 期数 | 文章备份 | 快速链接 |  
 |:---: | --- | --- |
 | | | |
-| 第 2 期 | [第 2 期文章]() | |
-| 第 1 期 | [第 1 期文章]() | |
+| 第 2 期 | [文章](002/) | |
+| 第 1 期 | [文章](001/) | [贝塞尔曲线详解](https://pomax.github.io/bezierinfo/); [Diablo 1 的随机迷宫生成机制](https://www.boristhebrave.com/2019/07/14/dungeon-generation-in-diablo-1/); [超级马里奥的优化](https://www.freecodecamp.org/news/where-do-all-the-bytes-come-from-f51586690fd0/#.fxlrfohvy); [机器学习在金融领域应用](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089/); [逆向工程权威指南](https://beginners.re) |
