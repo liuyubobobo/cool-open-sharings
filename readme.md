@@ -25,5 +25,6 @@
 | 期数 | 文章备份 | 快速链接 |  
 |:---: | :---: | --- |
 | | | |
+| 第 3 期 | [第 3 期文章](003/) | [用 Python 让繁琐工作自动化](https://automatetheboringstuff.com/2e/) <br/> [自底向上的计算机科学](https://www.bottomupcs.com/index.xhtml) <br/> [随机过程基础](https://web.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) <br/> [斯坦福大学 CS 144 课程所有课件](https://cs144.github.io/) <br/> [Layout 101](https://docs.google.com/file/d/0B0gPtgNVonXPT1NsWGpKZWZKV1U/edit) |
 | 第 2 期 | [第 2 期文章](002/) | [斯坦福大学 CS 007](https://cs007.blog)<br/> [理论计算机科学](https://introtcs.org/public/index.html)<br/> [计算机科学哲学](https://cse.buffalo.edu/~rapaport/Papers/phics.pdf)<br/> [Google 搜索引擎的原理](https://www.google.com/search/howsearchworks/?fg=1)<br/> [BERT 到底有什么威力？](https://www.blog.google/products/search/search-language-understanding-bert/)|
 | 第 1 期 | [第 1 期文章](001/) | [贝塞尔曲线详解](https://pomax.github.io/bezierinfo/)<br/> [Diablo 1 的随机迷宫生成机制](https://www.boristhebrave.com/2019/07/14/dungeon-generation-in-diablo-1/)<br/> [超级马里奥的优化](https://www.freecodecamp.org/news/where-do-all-the-bytes-come-from-f51586690fd0/#.fxlrfohvy)<br/> [机器学习在金融领域应用](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089/)<br/> [逆向工程权威指南](https://beginners.re) |
