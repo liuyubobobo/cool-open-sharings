@@ -22,6 +22,14 @@
 
 ## 目录
 
+### 专题
+
+| 专题名称 | 文章备份 | 快速链接 | 
+| :---: | :---: | --- |
+| 计算机底层原理 | [想了解计算机的底层原理？这些资源就够了](computer-underlying) | [Crash Course (英文原版)](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) <br/> [Crash Course (中文字幕)](https://crashcourse.club/category/computer_science/) <br/> [code](https://www.amazon.com/s?k=code+hidden+language+of+computer+hardware+and+software&crid=3NZ3MLC2TAPWE&sprefix=code+hidden%2Caps%2C207&ref=nb_sb_ss_i_1_11) <br> [程序是怎样跑起来的](https://www.douban.com/link2/?url=https%3A%2F%2Fbook.douban.com%2Fsubject%2F26365491%2F&query=%E7%A8%8B%E5%BA%8F%E6%98%AF%E6%80%8E%E6%A0%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84&cat_id=1001&type=search&pos=1) <br> [深入理解计算机系统](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X/ref=sr_1_1?crid=MKGMUUHE6LE2&keywords=computer+systems+a+programmer%27s+perspective&qid=1582846908&sprefix=computer+system%2Caps%2C208&sr=8-1) |
+
+### 普通内容
+
 | 期数 | 文章备份 | 快速链接 |  
 |:---: | :---: | --- |
 | 第 5 期 |  [第 5 期文章](005/) | [不到 1000 行的 2D 游戏引擎](https://github.com/ryanpcmcquen/basque) <br/> [表格识别技术综述](https://nanonets.com/blog/table-extraction-deep-learning/) <br/> [汇率转换就能创业](https://currencyscoop.com/) <br/> [机器学习实践经验](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) <br/> [计算机专业的“透明性”](https://www.cs.auckland.ac.nz/research/groups/ssg/homepages/yu-cheng/ytu001_PhDThesis.pdf) |
