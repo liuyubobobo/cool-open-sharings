@@ -32,6 +32,7 @@
 
 | 期数 | 文章备份 | 快速链接 |  
 |:---: | :---: | --- |
+| 第 7 期 | [第 7 期文章](007/) | [基于 Lisp 的算法教程](https://leanpub.com/progalgs/read#leanpub-auto-introduction) <br/> [Google SRE](https://landing.google.com/sre/#sre) <br/> [斯坦福 CS520：知识图谱](https://web.stanford.edu/class/cs520/) <br/> [亚马逊 Future Engineer](https://www.amazonfutureengineer.com/free-courses) <br/> [办公室噪音模拟器](https://imisstheoffice.eu/) |
 | 第 6 期 | [第 6 期文章](006/) | [使用 C 语言做一个文字冒险游戏](http://home.hccnet.nl/r.helderman/adventures/htpataic01.html) <br/> [可解释性机器学习](https://christophm.github.io/interpretable-ml-book/) <br/> [MIT 高级数据结构](https://courses.csail.mit.edu/6.851/fall17/) <br/> [160 个数据科学面试题](https://hackernoon.com/160-data-science-interview-questions-415s3y2a) <br/> [在线听英文绘本故事](https://www.storylineonline.net/) |
 | 第 5 期 |  [第 5 期文章](005/) | [不到 1000 行的 2D 游戏引擎](https://github.com/ryanpcmcquen/basque) <br/> [表格识别技术综述](https://nanonets.com/blog/table-extraction-deep-learning/) <br/> [汇率转换就能创业](https://currencyscoop.com/) <br/> [机器学习实践经验](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) <br/> [计算机专业的“透明性”](https://www.cs.auckland.ac.nz/research/groups/ssg/homepages/yu-cheng/ytu001_PhDThesis.pdf) |
 | 第 4 期 | [第 4 期文章](004/) | [VVVVVV 游戏开源](https://github.com/TerryCavanagh/vvvvvv) <br/> [学术种子站](http://academictorrents.com) <br/> [应用密码学进阶教材](https://toc.cryptobook.us/) <br/> [如何高效阅读论文](https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) <br/> [卡耐基梅隆大学的计算机体系结构课程](http://course.ece.cmu.edu/~ece447/s14/doku.php?id=start) |
