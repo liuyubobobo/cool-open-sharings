@@ -35,6 +35,8 @@
 
 | 期数 | 文章备份 | 快速链接 |  
 |:---: | :---: | --- |
+| | | |
+| 第 8 期 | [第 8 期文章](008/) | [MIT EE 和 CS 公开课](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/) <br/> [如何制作解析器](http://craftinginterpreters.com/index.html) <br/> [深入理解贝叶斯分析](https://users.aalto.fi/~ave/BDA3.pdf) <br/> [来自 1991 年的 TCP/IP 教程](https://tools.ietf.org/html/rfc1180) <br/> [如何说“不”](https://www.starterstory.com/how-to-say-no) |
 | 第 7 期 | [第 7 期文章](007/) | [基于 Lisp 的算法教程](https://leanpub.com/progalgs/read#leanpub-auto-introduction) <br/> [Google SRE](https://landing.google.com/sre/#sre) <br/> [斯坦福 CS520：知识图谱](https://web.stanford.edu/class/cs520/) <br/> [亚马逊 Future Engineer](https://www.amazonfutureengineer.com/free-courses) <br/> [办公室噪音模拟器](https://imisstheoffice.eu/) |
 | 第 6 期 | [第 6 期文章](006/) | [使用 C 语言做一个文字冒险游戏](http://home.hccnet.nl/r.helderman/adventures/htpataic01.html) <br/> [可解释性机器学习](https://christophm.github.io/interpretable-ml-book/) <br/> [MIT 高级数据结构](https://courses.csail.mit.edu/6.851/fall17/) <br/> [160 个数据科学面试题](https://hackernoon.com/160-data-science-interview-questions-415s3y2a) <br/> [在线听英文绘本故事](https://www.storylineonline.net/) |
 | 第 5 期 |  [第 5 期文章](005/) | [不到 1000 行的 2D 游戏引擎](https://github.com/ryanpcmcquen/basque) <br/> [表格识别技术综述](https://nanonets.com/blog/table-extraction-deep-learning/) <br/> [汇率转换就能创业](https://currencyscoop.com/) <br/> [机器学习实践经验](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) <br/> [计算机专业的“透明性”](https://www.cs.auckland.ac.nz/research/groups/ssg/homepages/yu-cheng/ytu001_PhDThesis.pdf) |
