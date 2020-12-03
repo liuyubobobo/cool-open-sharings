@@ -36,6 +36,8 @@
 
 | 期数 | 文章备份 | 快速链接 |  
 |:---: | :---: | --- |
+| | | |
+| 第 13 期 | [第 13 期文章](013/) | [浏览器的工作原理](https://taligarsiel.com/Projects/howbrowserswork1.htm) <br/> [文本编辑器中的算法和数据结构](http://www.finseth.com/craft/) <br/> [《算法导论》笔记](https://catonmat.net/summary-of-mit-introduction-to-algorithms) <br/> [互联网前端资源汇总](https://github.com/developer-resources/frontend-development) <br/> [安全相关开源项目汇总](https://github.com/Penetrum-Security/Security-List) |
 | 第 12 期 | [第 12 期文章](012/) | [吃豆人地图生成算法](https://shaunlebron.github.io/pacman-mazegen/) <br/> [学习安全工程](https://github.com/veeral-patel/how-to-secure-anything) <br/> [P vs NP](https://www.win.tue.nl/~gwoegi/P-versus-NP.htm) <br/> [来自 DeepMind 的资源列表](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf) <br/> [无版权 UI 设计图标](https://systemuicons.com) |
 | 第 11 期 | [第 11 期文章](011/) | [CRUD 进阶必读](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=sr_1_1?dchild=1&keywords=Designing+Data-Intensive+Applications&qid=1592872176&sr=8-1) <br/> [深入 Javascript](https://exploringjs.com/deep-js/index.html) <br/> [JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/index.html) <br/> [学习 Shader](https://thebookofshaders.com/) <br/> [斯坦福多任务学习和元学习](https://cs330.stanford.edu) <br/> [开源有声书库](https://librivox.org/) |
 | 第 10 期 | [第 10 期文章](010/) | [Papers with Code](https://paperswithcode.com/) <br/> [Linux 内核源码地图](https://makelinux.github.io/kernel/map/) <br/> [创建一个 DNS 服务器](https://github.com/EmilHernvall/dnsguide) <br/> [开发者别做设计](nodesign.dev) <br/> [泰伯利亚之日&红警 开源](https://github.com/electronicarts/CnC_Remastered_Collection/) |
