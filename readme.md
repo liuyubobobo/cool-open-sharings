@@ -26,10 +26,12 @@
 
 | 专题名称 | 文章备份 | 快速链接 | 
 | :---: | :---: | --- |
-| 计算机底层原理 | [想了解计算机的底层原理？这些资源就够了](others/computer-underlying) | [Crash Course (英文原版)](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) <br/> [Crash Course (中文字幕)](https://crashcourse.club/category/computer_science/) <br/> [code](https://www.amazon.com/s?k=code+hidden+language+of+computer+hardware+and+software&crid=3NZ3MLC2TAPWE&sprefix=code+hidden%2Caps%2C207&ref=nb_sb_ss_i_1_11) <br> [程序是怎样跑起来的](https://www.douban.com/link2/?url=https%3A%2F%2Fbook.douban.com%2Fsubject%2F26365491%2F&query=%E7%A8%8B%E5%BA%8F%E6%98%AF%E6%80%8E%E6%A0%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84&cat_id=1001&type=search&pos=1) <br> [深入理解计算机系统](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X/ref=sr_1_1?crid=MKGMUUHE6LE2&keywords=computer+systems+a+programmer%27s+perspective&qid=1582846908&sprefix=computer+system%2Caps%2C208&sr=8-1) |
-| 编程学习生物信息学 | [算法不好的工程师不是优秀的生物学家](others/rosalind/) | [编程学习生物信息学](http://rosalind.info/) |
+| 计算机底层原理 | [想了解计算机的底层原理？这些资源就够了](other/computer-underlying) | [Crash Course (英文原版)](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) <br/> [Crash Course (中文字幕)](https://crashcourse.club/category/computer_science/) <br/> [code](https://www.amazon.com/s?k=code+hidden+language+of+computer+hardware+and+software&crid=3NZ3MLC2TAPWE&sprefix=code+hidden%2Caps%2C207&ref=nb_sb_ss_i_1_11) <br> [程序是怎样跑起来的](https://www.douban.com/link2/?url=https%3A%2F%2Fbook.douban.com%2Fsubject%2F26365491%2F&query=%E7%A8%8B%E5%BA%8F%E6%98%AF%E6%80%8E%E6%A0%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84&cat_id=1001&type=search&pos=1) <br> [深入理解计算机系统](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X/ref=sr_1_1?crid=MKGMUUHE6LE2&keywords=computer+systems+a+programmer%27s+perspective&qid=1582846908&sprefix=computer+system%2Caps%2C208&sr=8-1) |
+| 编程学习生物信息学 | [算法不好的工程师不是优秀的生物学家](other/rosalind/) | [编程学习生物信息学](http://rosalind.info/) |
 | 人工智能学习路径 | [如果真的学习人工智能](https://github.com/liuyubobobo/ai-learning-roadmap) | [见专门代码仓简略版](https://github.com/liuyubobobo/ai-learning-roadmap) |
-| 如何从零开始实现一个小型 OS 内核 | [如何从零开始实现一个小型 OS 内核](others/os/) | - |
+| 如何从零开始实现一个小型 OS 内核 | [如何从零开始实现一个小型 OS 内核](other/os/) | - |
+| 不能赚钱，搞不好还赔钱的量化交易 | [不能赚钱，搞不好还赔钱的量化交易](other/quant/) | [Quantstart](https://www.quantstart.com/) <br/> [量化交易入门 5 本书](https://www.quantstart.com/articles/Top-5-Essential-Beginner-Books-for-Algorithmic-Trading/) <br/> [成为一名量化交易员的自学计划](https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Trader-Part-I/) <br/> [量化交易书籍 108 本](https://link.medium.com/nDgfDgd0wcb) <br/> [机器学习在金融领域的应用](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089/) |
+| | | |
 
 <br/>
 
